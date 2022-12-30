@@ -1,0 +1,12 @@
+.list{
+	list-style: none;
+	padding: 0;
+}
+.listItem{
+	width: 200px;
+	background: rgba(255, 0, 0, 0.178);
+	margin-bottom: 5px;
+}
+.listItemActive{
+	background: red;
+}
